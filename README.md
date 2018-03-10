@@ -1,2 +1,3 @@
-# RecipePi
-A WebApp connected to a Raspberry Pi made with HTML, CSS, and JavaScript.
+# Recipe Pi
+
+A simple Raspberry Pi web app to put in my kitchen to browse my favorite recipies.
